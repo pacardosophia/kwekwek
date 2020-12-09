@@ -1,2 +1,2 @@
 # kwekwek
-group 6
+GROUP 6
